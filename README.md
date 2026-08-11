@@ -76,7 +76,7 @@ I like turning ideas into working software — from client websites and full-sta
 
 <p align="center">
   <strong><samp>AI Models & Environments</samp></strong><br>
-  <img src="https://img.shields.io/badge/Antigravity-18181B?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Antigravity">
+  <img src="https://img.shields.io/badge/Antigravity-18181B?style=for-the-badge&logo=atom&logoColor=00F0FF" alt="Antigravity">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" alt="Ollama">
 </p>
@@ -104,51 +104,23 @@ I like turning ideas into working software — from client websites and full-sta
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Mastering+Data+Structures+and+Algorithms;Currently+Exploring+Advanced+C++;Building+AI+Agents+and+Automations" alt="DSA Progress" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mermaid.ink/img/pako:eNp9kU1uwyAQha9izQpIFNlN1XbZVamqlK6yyYJRzFow_oDdqIrz7oWETZsqFZiZ9743D7BzhZEjV3-O1nLhW30mY-8D3N7tQ2-r8S27sF3y26wR98tC51L2xR9jH-52D4Fv4w030Pno23-cM9B_mQ0G6gWqYI1SgN3z8Nl63E8Z_hR26966f91jM6z-rL5yCq_aO-5X_TjJtIETn350z1XJ2K8mD6zBChnQGz1oVUKRFFXWpWIV80KxmqyV4tXESpGk1ooy61zRnN5QGZ6-sI0H25a_q2QO-w?type=png&bgColor=!0d1117">
-    <img alt="Learning Journey Flowchart" src="https://mermaid.ink/img/pako:eNp9kU1uwyAQha9izQpIFNlN1XbZVamqlK6yyYJRzFow_oDdqIrz7oWETZsqFZiZ9743D7BzhZEjV3-O1nLhW30mY-8D3N7tQ2-r8S27sF3y26wR98tC51L2xR9jH-52D4Fv4w030Pno23-cM9B_mQ0G6gWqYI1SgN3z8Nl63E8Z_hR26966f91jM6z-rL5yCq_aO-5X_TjJtIETn350z1XJ2K8mD6zBChnQGz1oVUKRFFXWpWIV80KxmqyV4tXESpGk1ooy61zRnN5QGZ6-sI0H25a_q2QO-w?type=png&bgColor=!0d1117">
-  </picture>
-</p>
+```mermaid
+flowchart LR
+    A["🎯 DSA Mastery"] --> B["C++ & Advanced Concepts"]
+    B --> C["Full Stack Development"]
+    C --> D["AI Agents & Automation"]
+    D --> E["🚀 Building Real Products"]
+
+    style A fill:#0d1117,stroke:#00F0FF,color:#00F0FF
+    style B fill:#0d1117,stroke:#00F0FF,color:#00F0FF
+    style C fill:#0d1117,stroke:#00F0FF,color:#00F0FF
+    style D fill:#0d1117,stroke:#00F0FF,color:#00F0FF
+    style E fill:#0d1117,stroke:#00F0FF,color:#00F0FF
+```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhaskar-tech1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F0FF&title_color=00F0FF&text_color=ffffff" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaskar-tech1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="48%">
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar-tech1&theme=tokyo-night&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="97%">
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaskar-tech1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff" alt="Top Languages" width="48%">
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🐍 Contribution Grid
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhaskar-tech1/Bhaskar-tech1/output/dist/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhaskar-tech1/Bhaskar-tech1/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bhaskar-tech1/Bhaskar-tech1/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" />
